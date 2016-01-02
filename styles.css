@@ -1,0 +1,85 @@
+body {
+  font-family: Sans-Serif;
+}
+
+.teal {
+  color: #008EB0;
+}
+
+.green {
+  color: #27B67C;
+}
+
+.email-container {
+  font-family: arial, sans-serif;
+  font-size: 12px;
+  width: 600px;
+  height: 500px;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  margin: 40px auto;
+  padding: 25px;
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.05);
+  -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.05);
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.05);
+}
+
+.email-body {
+  padding-left: 37px;
+}
+
+.email-body p {
+  margin: 15px auto;
+}
+
+.signature-wrapper {
+  width: 300px;
+  margin: 100px auto;
+}
+
+.signature {
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.signature #logo {
+  max-height: 42px;
+}
+
+.signature .logo-cell {
+  border-right: 1px dotted #E8E8E8;
+  padding: 10px 22px 12px 16px;
+}
+
+.signature .contact-details {
+  vertical-align: top;
+  padding: 2px 18px;
+  color: #A5A5A5;
+  font-size: 11px;
+}
+
+.signature .contact-details .name {
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.signature .contact-details .separator {
+  padding: 0 2px;
+}
+
+.signature .contact-details .phone {
+  margin: 7px auto;
+}
+
+.signature .contact-details .tag {
+  font-weight: bold;
+}
+
+.signature .contact-details .icon {
+  max-width: 18px;
+  margin-right: 4px;
+}
+
+.signature .contact-details .link {
+  display: inline-block;
+}
