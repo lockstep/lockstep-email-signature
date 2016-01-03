@@ -30,3 +30,7 @@ You're done!
 
 Note that images need to be hosted on a remote server, so that you can
 copy-paste them to Gmail.
+
+Make sure to have your images in 2x the rendered resolution, so that the
+quality doesn't suffer on retina screens. E.g. given that the logo has styles
+`width: 50px; height: 100px;`, make sure your image dimensions are 100 x 200.
