@@ -34,12 +34,10 @@ body {
 
 .signature-wrapper {
   width: 300px;
-  margin: 100px auto;
 }
 
 .signature {
   border-collapse: collapse;
-  margin-top: 20px;
 }
 
 .signature #logo {
@@ -69,6 +67,11 @@ body {
 
 .signature .contact-details .phone {
   margin: 7px auto;
+}
+
+.signature .contact-details .phone a {
+  color: #A5A5A5;
+  text-decoration: none;
 }
 
 .signature .contact-details .tag {
