@@ -67,7 +67,8 @@ body {
 }
 
 .signature .contact-details .phone {
-  margin: 7px auto;
+  margin: 7px auto 9px;
+  line-height: 13px;
 }
 
 .signature .contact-details .phone a {
