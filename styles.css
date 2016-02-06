@@ -47,12 +47,12 @@ body {
 
 .signature .logo-cell {
   border-right: 1px dotted #E8E8E8;
-  padding: 10px 22px 12px 16px;
+  padding: 10px 22px 12px 0;
 }
 
 .signature .contact-details {
   vertical-align: top;
-  padding: 2px 18px;
+  padding: 2px 0 0 18px;
   color: #A5A5A5;
   font-size: 11px;
 }
@@ -69,6 +69,7 @@ body {
 .signature .contact-details .phone {
   margin: 6px auto 9px;
   line-height: 15px;
+  color: #A5A5A5;
 }
 
 .signature .contact-details .phone a {
