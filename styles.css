@@ -42,7 +42,8 @@ body {
 }
 
 .signature #logo {
-  max-height: 42px;
+  height: 42px;
+  width: 62;
 }
 
 .signature .logo-cell {
@@ -82,7 +83,8 @@ body {
 }
 
 .signature .contact-details .icon {
-  max-width: 18px;
+  height: 18px;
+  width: 18px;
   margin-right: 4px;
 }
 
